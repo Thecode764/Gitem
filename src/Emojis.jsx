@@ -17,6 +17,7 @@ function Emojis() {
                 <Emoji emoji="📖" name="Open book" description="Add or update README.md" />
                 <Emoji emoji="📦" name="Package" description="Publish package!" />
                 <Emoji emoji="🎉" name="Party popper" description="Start a new project" />
+                <Emoji emoji="⬆️" name="Up arrow" description="Upgrade packages" />
             </div>
         </>
     )
