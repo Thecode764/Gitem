@@ -1,5 +1,6 @@
 import "./output.css"
 import Emoji from "./Emoji-card.jsx"
+import Contributors from "./Contributors.jsx";
 
 function Emojis() {
     return (
@@ -20,6 +21,7 @@ function Emojis() {
                 <Emoji emoji="⬆️" name="Up arrow" description="Upgrade packages" />
                 <Emoji emoji="🐛" name="Bug" description="Fix a bug" />
                 <Emoji emoji="📝" name="Memo" description="Add or Update text/link or others ..." />
+                <Contributors />
             </div>
         </>
     )
