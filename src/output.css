@@ -1603,21 +1603,12 @@ html {
   z-index: 1;
 }
 
-.mx-auto {
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .mt-3 {
   margin-top: 0.75rem;
 }
 
 .mt-5 {
   margin-top: 1.25rem;
-}
-
-.ml-auto {
-  margin-left: auto;
 }
 
 .flex {
