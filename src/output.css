@@ -1635,6 +1635,10 @@ html {
   width: 24rem;
 }
 
+.w-28 {
+  width: 7rem;
+}
+
 .items-center {
   align-items: center;
 }
