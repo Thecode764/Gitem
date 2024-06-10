@@ -22,6 +22,7 @@ function Emojis() {
                 <Emoji emoji="🐛" name="Bug" description="Fix a bug" />
                 <Emoji emoji="📝" name="Memo" description="Add or Update text/link or others ..." />
                <Emoji emoji="🌎" name="Globe" description="Translate" />
+               <Emoji emoji="💄" name="Lipstick" description="Change the ui/style files" />
                 <Contributors />
             </div>
         </>
