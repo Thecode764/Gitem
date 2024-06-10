@@ -11,6 +11,10 @@ function Emojis() {
                 <Emoji emoji="⛏️" name="Pick" description="Build project" />
                 <Emoji emoji="⚙️" name="Gear" description="Add or update configuration files" />
                 <Emoji emoji="✅" name="Check mark" description="Completed all tests" />
+                <Emoji emoji="⭐" name="Star" description="Add new feature" />
+                <Emoji emoji="🚧" name="Construction" description="Work in progress / All tests are completed" />
+                <Emoji emoji="💳" name="Credit card" description="Add or update license for project" />
+                <Emoji emoji="📖" name="Open book" description="Add or update README.md" />
             </div>
         </>
     )
