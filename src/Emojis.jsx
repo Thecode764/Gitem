@@ -21,6 +21,7 @@ function Emojis() {
                 <Emoji emoji="⬆️" name="Up arrow" description="Upgrade packages" />
                 <Emoji emoji="🐛" name="Bug" description="Fix a bug" />
                 <Emoji emoji="📝" name="Memo" description="Add or Update text/link or others ..." />
+               <Emoji emoji="🌎" name="Globe" deacription="Translate" />
                 <Contributors />
             </div>
         </>
